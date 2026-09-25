@@ -3,3 +3,4 @@ scikit-learn==1.6.1
 pandas
 numpy
 joblib==1.6.0
+streamlit
